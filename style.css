@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+body {
+    font-family: 'Work Sans', sans-serif;
+}
+
+h1,
+h2,
+h3,
+.navbar-brand {
+    font-family: 'Playfair Display', serif;
+}
+
+.hero-section h1 {
+    font-weight: 400;
+    letter-spacing: 1px;
+}
+
+.hero-section p {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.hero-section {
+    height: 100vh;
+    background: linear-gradient(to right, #1e3c72, #2a5298);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+}
+
+.contact-info {
+    font-size: 1.1rem;
+}
+
+a {
+    color: #2a5298;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.card-img-top {
+    height: 50vh;
+    padding: 10px;
+}
+
+.card-title {
+    font-family: 'Bree Serif', serif;
+    font-size: 1.25rem;
+    font-weight: 200;
+}
+
+.card-text {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 1rem;
+    color: #333;
+}
